@@ -27,12 +27,12 @@ correctAnswer: 'All of the above'
 {
 question: 'According to the WELL Building Standard, what is the maximum allowable concentration of PM2.5 particles in the indoor air?',
 choices: [
-'15 µg/m³',
-'12 µg/m³',
-'10 µg/m³',
-'5 µg/m³'
+'15 Âµg/mÂ³',
+'12 Âµg/mÂ³',
+'10 Âµg/mÂ³',
+'5 Âµg/mÂ³'
 ],
-correctAnswer: '10 µg/m³'
+correctAnswer: '10 Âµg/mÂ³'
 },
 
 {
@@ -140,12 +140,12 @@ correctAnswer: 'Dissolved oxygen'
 {
 question: 'According to the WELL Building Standard, what is the maximum allowable concentration of lead in drinking water?',
 choices: [
-'15 µg/L',
-'5 µg/L',
-'10 µg/L',
-'20 µg/L'
+'15 Âµg/L',
+'5 Âµg/L',
+'10 Âµg/L',
+'20 Âµg/L'
 ],
-correctAnswer: '5 µg/L'
+correctAnswer: '5 Âµg/L'
 },
 
 {
@@ -216,7 +216,7 @@ correctAnswer: 'Increasing the water pressure in the building'
 {
 question: 'In the context of the WELL Building Standard, how can hot water temperature be managed to reduce the risk of scalding while still minimizing the risk of Legionella bacteria growth?',
 choices: [
-'Maintaining a minimum hot water temperature of 140°F (60°C)',
+'Maintaining a minimum hot water temperature of 140Â°F (60Â°C)',
 'Installing thermostatic mixing valves at points of use',
 'Implementing a regular flushing schedule for hot water systems',
 'Increasing the water pressure in the building'
@@ -235,18 +235,348 @@ correctAnswer: 'Installing thermostatic mixing valves at points of use'
         subheading: 'Nourishment',
         questions: [
             {
-                question: 'What is the primary objective of the Air Concept in the WELL Building Standard?',
-                choices: [
-                    'To maximize energy efficiency in HVAC systems',
-                    'To optimize indoor air quality and minimize sources of indoor air pollution',
-                    'To increase outdoor air ventilation rates',
-                    'To reduce carbon emissions from buildings'
-                ],
-                correctAnswer: 'To optimize indoor air quality and minimize sources of indoor air pollution'
-            },
+question: 'What is the primary objective of the Nourishment Concept in the WELL Building Standard?',
+choices: [
+'To promote healthy eating habits among building occupants',
+'To minimize the environmental impact of food production',
+'To reduce food waste in the building',
+'To optimize water and energy use in food preparation'
+],
+correctAnswer: 'To promote healthy eating habits among building occupants'
+},
+
+{
+question: 'Which of the following is a strategy for promoting fruit and vegetable consumption in a WELL-certified building?',
+choices: [
+'Providing at least two types of fruits and two types of vegetables daily',
+'Offering a salad bar in the building cafeteria',
+'Displaying fruits and vegetables prominently in food service areas',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Nutritional Transparency Feature in the WELL Building Standard?',
+choices: [
+'To ensure the buildings water meets or exceeds minimum water quality standards',
+'To promote healthy eating habits among building occupants',
+'To provide clear and accurate nutritional information for all food items served',
+'To reduce the environmental impact of food production'
+],
+correctAnswer: 'To provide clear and accurate nutritional information for all food items served'
+},
+
+{
+question: 'In the context of the WELL Building Standard, which of the following strategies can help reduce unhealthy food options and promote healthier choices?',
+choices: [
+'Limiting the availability of sugar-sweetened beverages',
+'Offering smaller portion sizes for high-calorie food items',
+'Pricing healthier food options more attractively',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'Which of the following strategies can be used to promote mindful eating in a WELL-certified building?',
+choices: [
+'Designating quiet and relaxing eating spaces',
+'Providing a variety of seating options in dining areas',
+'Offering nutrition education and information resources',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'According to the WELL Building Standard, what is the primary purpose of incorporating food allergies and preferences into food offerings?',
+choices: [
+'To reduce food waste in the building',
+'To accommodate the dietary needs and preferences of building occupants',
+'To minimize the environmental impact of food production',
+'To optimize water and energy use in food preparation'
+],
+correctAnswer: 'To accommodate the dietary needs and preferences of building occupants'
+},
+
+{
+question: 'What is the purpose of the Hand Washing Feature in the WELL Building Standard?',
+choices: [
+'To promote healthy eating habits among building occupants',
+'To ensure the buildings water meets or exceeds minimum water quality standards',
+'To minimize the risk of foodborne illnesses by encouraging proper hand hygiene',
+'To reduce the environmental impact of food production'
+],
+correctAnswer: 'To minimize the risk of foodborne illnesses by encouraging proper hand hygiene'
+},
+
+{
+question: 'Which of the following is a strategy for supporting local and sustainable food production in a WELL-certified building?',
+choices: [
+'Sourcing food from local farmers and producers',
+'Offering organic and sustainably-produced food options',
+'Implementing a food waste reduction program',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+{
+question: 'In the context of the WELL Building Standard, which of the following strategies can help minimize the risk of foodborne illnesses in a building?',
+choices: [
+'Proper food storage and temperature control',
+'Regular cleaning and sanitation of food preparation areas',
+'Training food service staff on safe food handling practices',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'Which of the following is a strategy for promoting healthy beverages in a WELL-certified building?',
+choices: [
+'Providing access to free, clean drinking water',
+'Offering a variety of unsweetened beverages',
+'Limiting the availability of sugar-sweetened beverages',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+}
+
             // ... other questions for Set 3
         ]
     },
+    {
+        subheading: 'Light',
+        questions: [
+   {
+question: 'What is the primary objective of the Light Concept in the WELL Building Standard?',
+choices: [
+'To minimize energy consumption from lighting systems',
+'To enhance visual comfort and promote productivity among building occupants',
+'To ensure adequate daylight exposure for building occupants',
+'To prevent glare and reduce visual strain'
+],
+correctAnswer: 'To enhance visual comfort and promote productivity among building occupants'
+},
+
+{
+question: 'Which of the following is a strategy for optimizing daylight exposure in a WELL-certified building?',
+choices: [
+'Designing the building with large windows and open floor plans',
+'Using light shelves to distribute daylight more evenly',
+'Incorporating daylight-responsive lighting controls',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'In the context of the WELL Building Standard, what is the primary purpose of providing proper task lighting in workspaces?',
+choices: [
+'To minimize energy consumption from lighting systems',
+'To ensure adequate daylight exposure for building occupants',
+'To provide appropriate light levels for specific tasks, reducing visual strain',
+'To prevent glare and reduce visual strain'
+],
+correctAnswer: 'To provide appropriate light levels for specific tasks, reducing visual strain'
+},
+
+{
+question: 'Which of the following strategies can help reduce glare in a WELL-certified building?',
+choices: [
+'Using window shading devices and blinds',
+'Incorporating indirect lighting solutions',
+'Employing matte surfaces and finishes',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the primary purpose of the Circadian Lighting Design Feature in the WELL Building Standard?',
+choices: [
+'To minimize energy consumption from lighting systems',
+'To enhance visual comfort and promote productivity among building occupants',
+'To support the human circadian system by providing appropriate light exposure throughout the day',
+'To ensure adequate daylight exposure for building occupants'
+],
+correctAnswer: 'To support the human circadian system by providing appropriate light exposure throughout the day'
+},
+
+{
+question: 'Which of the following is a strategy for minimizing light pollution from a WELL-certified building?',
+choices: [
+'Installing exterior lighting fixtures with full cut-off shields',
+'Using motion sensors and timers for exterior lighting',
+'Employing low-glare, energy-efficient lighting sources',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Electric Light Glare Control Feature in the WELL Building Standard?',
+choices: [
+'To minimize energy consumption from lighting systems',
+'To enhance visual comfort and promote productivity among building occupants',
+'To prevent glare and reduce visual strain',
+'To ensure adequate daylight exposure for building occupants'
+],
+correctAnswer: 'To prevent glare and reduce visual strain'
+},
+
+{
+question: 'Which of the following strategies can be used to improve color quality in a WELL-certified building?',
+choices: [
+'Selecting lighting sources with a high color rendering index (CRI)',
+'Using lighting sources with an appropriate correlated color temperature (CCT)',
+'Incorporating daylight-responsive lighting controls',
+'Both A and B'
+],
+correctAnswer: 'Both A and B'
+},
+{
+question: 'What is the primary purpose of providing adequate illuminance levels in a WELL-certified building?',
+choices: [
+'To minimize energy consumption from lighting systems',
+'To ensure adequate daylight exposure for building occupants',
+'To create a visually comfortable environment and reduce the risk of visual strain',
+'To prevent glare and reduce visual strain'
+],
+correctAnswer: 'To create a visually comfortable environment and reduce the risk of visual strain'
+},
+
+{
+question: 'Which of the following factors should be considered when designing a lighting system for a WELL-certified building?',
+choices: [
+'Illuminance levels',
+'Color quality',
+'Glare control',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+}
+            // ... other questions for Set 3
+        ]
+    },
+    {
+        subheading: 'Movement',
+        questions: [
+            {
+question: 'What is the primary objective of the Movement Concept in the WELL Building Standard?',
+choices: [
+'To encourage physical activity and reduce sedentary behavior among building occupants',
+'To ensure proper air circulation within the building',
+'To promote efficient transportation options',
+'To provide safe and accessible emergency exits'
+],
+correctAnswer: 'To encourage physical activity and reduce sedentary behavior among building occupants'
+},
+
+{
+question: 'Which of the following strategies can promote physical activity in a WELL-certified building?',
+choices: [
+'Providing easily accessible and appealing staircases',
+'Designing active workstations, such as standing desks or treadmill desks',
+'Offering fitness facilities or exercise classes on-site',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Active Transportation Feature in the WELL Building Standard?',
+choices: [
+'To encourage physical activity and reduce sedentary behavior among building occupants',
+'To promote efficient transportation options and reduce reliance on personal vehicles',
+'To provide safe and accessible emergency exits',
+'To minimize energy consumption from transportation systems'
+],
+correctAnswer: 'To promote efficient transportation options and reduce reliance on personal vehicles'
+},
+
+{
+question: 'Which of the following strategies can help reduce sedentary behavior in a WELL-certified building?',
+choices: [
+'Designing spaces for walking meetings',
+'Providing regular breaks for stretching and movement during work hours',
+'Encouraging the use of stairs instead of elevators',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the primary purpose of the Accessible Design Feature in the WELL Building Standard?',
+choices: [
+'To ensure that all building occupants, including those with disabilities, can access and use the building comfortably and safely',
+'To minimize energy consumption from transportation systems',
+'To encourage physical activity and reduce sedentary behavior among building occupants',
+'To provide safe and accessible emergency exits'
+],
+correctAnswer: 'To ensure that all building occupants, including those with disabilities, can access and use the building comfortably and safely'
+},
+
+{
+question: 'Which of the following strategies can be used to promote ergonomic comfort in a WELL-certified building?',
+choices: [
+'Providing adjustable furniture, such as chairs and desks',
+'Offering ergonomics training and resources to building occupants',
+'Conducting regular ergonomic assessments and adjustments',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'In the context of the WELL Building Standard, what is the primary purpose of providing adequate bicycle storage and facilities?',
+choices: [
+'To encourage physical activity and reduce sedentary behavior among building occupants',
+'To promote efficient transportation options and reduce reliance on personal vehicles',
+'To provide safe and accessible emergency exits',
+'To minimize energy consumption from transportation systems'
+],
+correctAnswer: 'To promote efficient transportation options and reduce reliance on personal vehicles'
+},
+
+{
+question: 'Which of the following is a strategy for promoting physical activity through exterior spaces in a WELL-certified building?',
+choices: [
+'Designing walking paths and outdoor exercise areas',
+'Providing outdoor seating areas and amenities',
+'Incorporating green spaces and natural elements',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+{
+question: 'What is the primary purpose of the Emergency Preparedness Feature in the WELL Building Standard?',
+choices: [
+'To ensure proper air circulation within the building',
+'To provide safe and accessible emergency exits and procedures for building occupants',
+'To encourage physical activity and reduce sedentary behavior among building occupants',
+'To minimize energy consumption from transportation systems'
+],
+correctAnswer: 'To provide safe and accessible emergency exits and procedures for building occupants'
+},
+
+{
+question: 'Which of the following is a strategy for promoting occupant well-being through physical movement in a WELL-certified building?',
+choices: [
+'Providing clear and visible signage to promote stair use',
+'Designing spaces with ample natural light and views of the outdoors',
+'Incorporating sound-absorbing materials to reduce noise levels',
+'All of the above'
+],
+correctAnswer: 'Providing clear and visible signage to promote stair use'
+}
+ 
+            // ... other questions for Set 1
+        ]
+    },
+
+
     // Add more sets as needed
 ];
 
