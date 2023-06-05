@@ -575,8 +575,586 @@ correctAnswer: 'Providing clear and visible signage to promote stair use'
             // ... other questions for Set 1
         ]
     },
+    {
+        subheading: 'Thermal Comfort and Sound',
+        questions: [
+            {
+question: 'What is the primary objective of the Thermal Comfort Concept in the WELL Building Standard?',
+choices: [
+'To minimize energy consumption from heating and cooling systems',
+'To maintain a comfortable indoor temperature range for building occupants',
+'To reduce outdoor noise pollution',
+'To promote natural ventilation and airflow'
+],
+correctAnswer: 'To maintain a comfortable indoor temperature range for building occupants'
+},
 
+{
+question: 'Which of the following factors can affect thermal comfort in a building?',
+choices: [
+'Temperature',
+'Humidity',
+'Air velocity',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
 
+{
+question: 'What is the purpose of the Thermal Comfort Monitoring Feature in the WELL Building Standard?',
+choices: [
+'To minimize energy consumption from heating and cooling systems',
+'To ensure that indoor temperature remains within the acceptable range for occupant comfort',
+'To reduce outdoor noise pollution',
+'To promote natural ventilation and airflow'
+],
+correctAnswer: 'To ensure that indoor temperature remains within the acceptable range for occupant comfort'
+},
+
+{
+question: 'Which of the following strategies can help improve thermal comfort in a WELL-certified building?',
+choices: [
+'Proper insulation and sealing to minimize heat loss or gain',
+'Use of energy-efficient heating, ventilation, and air conditioning (HVAC) systems',
+'Offering individual thermal controls for occupants',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the primary purpose of the Sound Concept in the WELL Building Standard?',
+choices: [
+'To minimize energy consumption from sound-producing equipment',
+'To create a pleasant acoustic environment and reduce noise disturbances for building occupants',
+'To provide privacy and minimize sound transmission between spaces',
+'To promote natural ventilation and airflow'
+],
+correctAnswer: 'To create a pleasant acoustic environment and reduce noise disturbances for building occupants'
+},
+
+{
+question: 'Which of the following factors can contribute to noise pollution in a building?',
+choices: [
+'External sources such as traffic or construction',
+'Internal sources such as HVAC systems or equipment',
+'Occupant activities and conversations',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Sound Measurement and Control Feature in the WELL Building Standard?',
+choices: [
+'To minimize energy consumption from sound-producing equipment',
+'To ensure that indoor sound levels remain within acceptable limits for occupant comfort',
+'To reduce outdoor noise pollution',
+'To promote natural ventilation and airflow'
+],
+correctAnswer: 'To ensure that indoor sound levels remain within acceptable limits for occupant comfort'
+},
+
+{
+question: 'Which of the following strategies can help mitigate noise disturbances in a WELL-certified building?',
+choices: [
+'Proper acoustic design and soundproofing materials',
+'Use of noise-reducing fixtures and equipment',
+'Establishing quiet zones or designated noise-free areas',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Acoustic Comfort Enhancement Feature in the WELL Building Standard?',
+choices: [
+'To minimize energy consumption from sound-producing equipment',
+'To create a pleasant acoustic environment and reduce noise disturbances for building occupants',
+'To provide privacy and minimize sound transmission between spaces',
+'To ensure that indoor sound levels remain within acceptable limits for occupant comfort'
+],
+correctAnswer: 'To create a pleasant acoustic environment and reduce noise disturbances for building occupants'
+},
+
+{
+question: 'Which of the following strategies can promote acoustic comfort in a WELL-certified building?',
+choices: [
+'Use of sound-absorbing materials and surfaces',
+'Proper placement of sound-producing equipment',
+'Implementing sound masking or white noise systems',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+}
+ 
+            // ... other questions for Set 1
+        ]
+    },
+     {
+        subheading: 'Materials',
+        questions: [
+            {
+question: 'What is the primary objective of the Materials Concept in the WELL Building Standard?',
+choices: [
+'To ensure the use of sustainable and non-toxic materials in building construction and furnishing',
+'To promote efficient water use and reduce water consumption',
+'To create a visually appealing and aesthetically pleasing environment',
+'To minimize energy consumption from lighting systems'
+],
+correctAnswer: 'To ensure the use of sustainable and non-toxic materials in building construction and furnishing'
+},
+
+{
+question: 'Which of the following factors are considered in the evaluation of materials in a WELL-certified building?',
+choices: [
+'Environmental impact and sustainability',
+'Health and safety aspects',
+'Durability and performance',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Material Transparency Feature in the WELL Building Standard?',
+choices: [
+'To ensure the use of sustainable and non-toxic materials in building construction and furnishing',
+'To promote efficient water use and reduce water consumption',
+'To provide information about the composition and impact of materials used in the building',
+'To minimize energy consumption from lighting systems'
+],
+correctAnswer: 'To provide information about the composition and impact of materials used in the building'
+},
+
+{
+question: 'Which of the following certifications can indicate the use of sustainable and environmentally-friendly materials?',
+choices: [
+'LEED certification',
+'Cradle to Cradle certification',
+'GREENGUARD certification',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the primary purpose of the Material Precaution Feature in the WELL Building Standard?',
+choices: [
+'To ensure the use of sustainable and non-toxic materials in building construction and furnishing',
+'To promote efficient water use and reduce water consumption',
+'To identify and avoid materials with known health hazards',
+'To minimize energy consumption from lighting systems'
+],
+correctAnswer: 'To identify and avoid materials with known health hazards'
+},
+
+{
+question: 'Which of the following factors are considered in assessing the health and safety of materials?',
+choices: [
+'Presence of harmful chemicals or volatile organic compounds (VOCs)',
+'Potential for off-gassing',
+'Allergenic or irritant properties',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Material Innovation Feature in the WELL Building Standard?',
+choices: [
+'To ensure the use of sustainable and non-toxic materials in building construction and furnishing',
+'To promote efficient water use and reduce water consumption',
+'To encourage the use of new and innovative materials that contribute to occupant well-being',
+'To minimize energy consumption from lighting systems'
+],
+correctAnswer: 'To encourage the use of new and innovative materials that contribute to occupant well-being'
+},
+
+{
+question: 'Which of the following strategies can support the use of sustainable materials in a WELL-certified building?',
+choices: [
+'Selecting materials with recycled content',
+'Choosing products with third-party certifications',
+'Using locally sourced materials',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Material Circularity Feature in the WELL Building Standard?',
+choices: [
+'To ensure the use of sustainable and non-toxic materials in building construction and furnishing',
+'To promote efficient water use and reduce water consumption',
+'To encourage the reuse and recycling of materials',
+'To minimize energy consumption from lighting systems'
+],
+correctAnswer: 'To encourage the reuse and recycling of materials'
+},
+
+{
+question: 'Which of the following strategies can promote material circularity in a building?',
+choices: [
+'Designing for disassembly and ease of material separation',
+'Implementing recycling programs and waste management strategies',
+'Encouraging the use of renewable and biodegradable materials',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+}
+ 
+            // ... other questions for Set 1
+        ]
+     },
+       {
+        subheading: 'Mind',
+        questions: [
+           {
+question: 'What is the primary objective of the Mind Concept in the WELL Building Standard?',
+choices: [
+'To promote mental and emotional well-being of building occupants',
+'To optimize energy performance and reduce environmental impact',
+'To provide access to healthy food options and promote proper nutrition',
+'To enhance physical activity and movement'
+],
+correctAnswer: 'To promote mental and emotional well-being of building occupants'
+},
+
+{
+question: 'Which of the following factors are important for supporting mental well-being in a building?',
+choices: [
+'Access to natural daylight and views',
+'Acoustic comfort and noise reduction',
+'Opportunities for social interaction',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Biophilia Feature in the WELL Building Standard?',
+choices: [
+'To promote mental and emotional well-being through connection with nature',
+'To ensure proper indoor air quality and ventilation',
+'To reduce energy consumption and improve energy efficiency',
+'To encourage physical activity and movement'
+],
+correctAnswer: 'To promote mental and emotional well-being through connection with nature'
+},
+
+{
+question: 'Which of the following strategies can enhance the biophilic design of a building?',
+choices: [
+'Incorporating natural elements such as plants and water features',
+'Maximizing access to natural daylight',
+'Creating outdoor spaces and green areas',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the primary purpose of the Mindfulness Feature in the WELL Building Standard?',
+choices: [
+'To promote mental and emotional well-being through mindfulness practices',
+'To optimize energy performance and reduce environmental impact',
+'To provide access to healthy food options and promote proper nutrition',
+'To enhance physical activity and movement'
+],
+correctAnswer: 'To promote mental and emotional well-being through mindfulness practices'
+},
+
+{
+question: 'Which of the following activities can be associated with mindfulness practices?',
+choices: [
+'Meditation',
+'Breathing exercises',
+'Yoga',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Active Furnishings Feature in the WELL Building Standard?',
+choices: [
+'To promote mental and emotional well-being through active sitting and movement',
+'To ensure proper indoor air quality and ventilation',
+'To reduce energy consumption and improve energy efficiency',
+'To encourage social interaction and collaboration'
+],
+correctAnswer: 'To promote mental and emotional well-being through active sitting and movement'
+},
+
+{
+question: 'Which of the following furnishings can be considered as active furnishings?',
+choices: [
+'Height-adjustable desks',
+'Ergonomic chairs with lumbar support',
+'Treadmill desks',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Circadian Lighting Design Feature in the WELL Building Standard?',
+choices: [
+'To promote mental and emotional well-being through lighting that supports the bodys natural circadian rhythm',
+'To optimize energy performance and reduce environmental impact',
+'To provide access to healthy food options and promote proper nutrition',
+'To enhance physical activity and movement'
+],
+correctAnswer: 'To promote mental and emotional well-being through lighting that supports the bodys natural circadian rhythm'
+},
+
+{
+question: 'Which of the following strategies can support a circadian lighting design in a building?',
+choices: [
+'Using lighting systems that mimic natural daylight',
+'Adjusting lighting intensity and color temperature throughout the day',
+'Promoting exposure to bright light in the morning and dim light in the evening',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+}
+ 
+            // ... other questions for Set 1
+        ]
+     },
+     {
+        subheading: 'Community',
+        questions: [
+           {
+question: 'What is the primary objective of the Community Concept in the WELL Building Standard?',
+choices: [
+'To foster a sense of community and social interaction among building occupants',
+'To optimize energy performance and reduce environmental impact',
+'To provide access to healthy food options and promote proper nutrition',
+'To enhance physical activity and movement'
+],
+correctAnswer: 'To foster a sense of community and social interaction among building occupants'
+},
+
+{
+question: 'Which of the following factors are important for promoting a sense of community in a building?',
+choices: [
+'Shared spaces and amenities',
+'Opportunities for social interaction',
+'Engagement with the local community',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Community Engagement Feature in the WELL Building Standard?',
+choices: [
+'To promote community involvement and participation in building initiatives',
+'To ensure proper indoor air quality and ventilation',
+'To reduce energy consumption and improve energy efficiency',
+'To encourage physical activity and movement'
+],
+correctAnswer: 'To promote community involvement and participation in building initiatives'
+},
+
+{
+question: 'Which of the following strategies can support community engagement in a building?',
+choices: [
+'Organizing events and activities for building occupants',
+'Collaborating with local organizations and community groups',
+'Providing spaces for meetings and gatherings',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the primary purpose of the Community Access Feature in the WELL Building Standard?',
+choices: [
+'To provide equitable access to the building and its amenities for all occupants',
+'To optimize energy performance and reduce environmental impact',
+'To provide access to healthy food options and promote proper nutrition',
+'To enhance physical activity and movement'
+],
+correctAnswer: 'To provide equitable access to the building and its amenities for all occupants'
+},
+
+{
+question: 'Which of the following considerations are important for ensuring community access in a building?',
+choices: [
+'Accessible entrances and pathways',
+'Adaptation for people with disabilities',
+'Inclusive amenities and facilities',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Public Health Emergency Preparedness Feature in the WELL Building Standard?',
+choices: [
+'To establish protocols and measures for addressing public health emergencies',
+'To ensure proper indoor air quality and ventilation',
+'To reduce energy consumption and improve energy efficiency',
+'To encourage physical activity and movement'
+],
+correctAnswer: 'To establish protocols and measures for addressing public health emergencies'
+},
+
+{
+question: 'Which of the following strategies can support public health emergency preparedness in a building?',
+choices: [
+'Implementing emergency response plans and protocols',
+'Providing clear signage and communication systems',
+'Ensuring access to essential supplies and resources',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Diversity and Inclusion Feature in the WELL Building Standard?',
+choices: [
+'To promote diversity, equity, and inclusion within the building and its operations',
+'To optimize energy performance and reduce environmental impact',
+'To provide access to healthy food options and promote proper nutrition',
+'To enhance physical activity and movement'
+],
+correctAnswer: 'To promote diversity, equity, and inclusion within the building and its operations'
+},
+
+{
+question: 'Which of the following strategies can support diversity and inclusion in a building?',
+choices: [
+'Creating inclusive policies and practices',
+'Providing accessible spaces for diverse populations',
+'Promoting cultural awareness and sensitivity',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+}
+ 
+            // ... other questions for Set 1
+        ]
+     },
+        {
+        subheading: 'Innovation',
+        questions: [
+           {
+question: 'What is the primary objective of the Innovation Concept in the WELL Building Standard?',
+choices: [
+'To encourage creative and innovative strategies for improving building performance',
+'To optimize energy performance and reduce environmental impact',
+'To provide access to healthy food options and promote proper nutrition',
+'To enhance physical activity and movement'
+],
+correctAnswer: 'To encourage creative and innovative strategies for improving building performance'
+},
+
+{
+question: 'Which of the following factors are important for promoting innovation in building design and operations?',
+choices: [
+'Research and development of new technologies',
+'Collaboration and knowledge sharing among stakeholders',
+'Continuous improvement and evaluation of building performance',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Innovation and Pilot Credits in the WELL Building Standard?',
+choices: [
+'To provide additional opportunities for earning points and demonstrating exceptional performance',
+'To ensure proper indoor air quality and ventilation',
+'To reduce energy consumption and improve energy efficiency',
+'To encourage physical activity and movement'
+],
+correctAnswer: 'To provide additional opportunities for earning points and demonstrating exceptional performance'
+},
+
+{
+question: 'Which of the following strategies can be considered for earning innovation credits in the WELL Building Standard?',
+choices: [
+'Implementing advanced energy monitoring and management systems',
+'Integrating renewable energy sources',
+'Using innovative materials and technologies',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the WELL Portfolio Program in the WELL Building Standard?',
+choices: [
+'To streamline the certification process for multiple buildings within a portfolio',
+'To optimize energy performance and reduce environmental impact',
+'To provide access to healthy food options and promote proper nutrition',
+'To enhance physical activity and movement'
+],
+correctAnswer: 'To streamline the certification process for multiple buildings within a portfolio'
+},
+
+{
+question: 'Which of the following benefits can be achieved through the implementation of the WELL Portfolio Program?',
+choices: [
+'Consistent application of health and wellness principles across multiple buildings',
+'Streamlined data collection and reporting processes',
+'Enhanced collaboration and knowledge sharing among building owners and stakeholders',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the Innovation Accreditation in the WELL Building Standard?',
+choices: [
+'To recognize and celebrate exceptional achievement in innovation',
+'To ensure proper indoor air quality and ventilation',
+'To reduce energy consumption and improve energy efficiency',
+'To encourage physical activity and movement'
+],
+correctAnswer: 'To recognize and celebrate exceptional achievement in innovation'
+},
+
+{
+question: 'Which of the following criteria are considered for earning the Innovation Accreditation in the WELL Building Standard?',
+choices: [
+'Demonstration of significant innovation and positive impact on human health and well-being',
+'Documentation of measurable performance and outcomes',
+'Integration of advanced technologies and strategies',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+},
+
+{
+question: 'What is the purpose of the WELL Community Standard in the WELL Building Standard?',
+choices: [
+'To extend the principles of the WELL Building Standard to broader community development',
+'To optimize energy performance and reduce environmental impact',
+'To provide access to healthy food options and promote proper nutrition',
+'To enhance physical activity and movement'
+],
+correctAnswer: 'To extend the principles of the WELL Building Standard to broader community development'
+},
+
+{
+question: 'Which of the following goals can be achieved through the implementation of the WELL Community Standard?',
+choices: [
+'Creation of healthier and more sustainable communities',
+'Equitable access to health and wellness amenities',
+'Enhanced social connectivity and engagement',
+'All of the above'
+],
+correctAnswer: 'All of the above'
+}
+ 
+            // ... other questions for Set 1
+        ]
+},
     // Add more sets as needed
 ];
 
